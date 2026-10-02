@@ -1,7 +1,6 @@
 # BMLabs
 
-BMLabs builds apps that solve real everyday problems, on phones, tablets and the web.
-Every app starts from a real need, keeps the solution simple and respects your privacy.
+BMLabs builds apps that solve real everyday problems. Every app starts from a real need, keeps the solution simple and respects your privacy.
 
 ## Current Apps
 
